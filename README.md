@@ -44,7 +44,7 @@
 
 | Topic:              | Problem                                                                                              | Solutions        |
 |:-------------------:|------------------------------------------------------------------------------------------------------|:----------------:|
-| Array               | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |<a href="./CP2021/rev_arr.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>|
+| Array               | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |<a href="https://github.com/satyampundi/CP2021/blob/main/rev_arr.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>|
 | Array               | Find the maximum and minimum element in an array                                                     | <->              |
 | Array               | Find the "Kth" max and min element of an array                                                       | <->              |
 | Array               | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | <->              |
