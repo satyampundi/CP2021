@@ -32,6 +32,7 @@
 #### TRACK YOUR PROGRESS: 
 - **here:** https://450dsa.com/
 - **credits:** https://github.com/satyampundi/CP2021
+- **SEGMENTATION FAULT:** https://www.geeksforgeeks.org/core-dump-segmentation-fault-c-cpp/
 
 # DSA Cracker Sheet
 
