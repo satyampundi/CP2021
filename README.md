@@ -31,7 +31,7 @@
 
 #### TRACK YOUR PROGRESS: 
 - **here:** https://450dsa.com/
-- **credits:** https://github.com/AsishRaju/450-DSA
+- **credits:** https://github.com/satyampundi/CP2021
 
 # DSA Cracker Sheet
 
