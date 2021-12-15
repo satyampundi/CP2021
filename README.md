@@ -46,10 +46,10 @@
 | Topic:              | Problem                                                                                              | Solutions        |
 |:-------------------:|------------------------------------------------------------------------------------------------------|:----------------:|
 | Array               | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |<a href="https://github.com/satyampundi/CP2021/blob/main/rev_arr.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>|
-| Array               | Find the maximum and minimum element in an array                                                     | <->              |
-| Array               | Find the "Kth" max and min element of an array                                                       | <->              |
-| Array               | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | <->              |
-| Array               | Move all the negative elements to one side of the array                                              | <->              |
+| Array               | Find the maximum and minimum element in an array                                                     | <a href="https://github.com/satyampundi/CP2021/blob/main/find_Min_and_Max.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>|
+| Array               | Find the "Kth" max and min element of an array                                                       | <a>href="https://github.com/satyampundi/CP2021/blob/main/KthSmallAndLarge.cpp"</a>              |
+| Array               | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | <a>href="https://github.com/satyampundi/CP2021/blob/main/0%2C1%2C2%20arr_Sort.cpp"</a>              |
+| Array               | Move all the negative elements to one side of the array                                              | <a>href="https://github.com/satyampundi/CP2021/blob/main/inPlaceMovAllNeg.cpp"</a>              |
 | Array               | Find the Union and Intersection of the two sorted arrays.                                            | <->              |
 | Array               | Write a program to cyclically rotate an array by one.                                                | <->              |
 | Array               | find Largest sum contiguous Subarray [V. IMP]                                                        | <->              |
