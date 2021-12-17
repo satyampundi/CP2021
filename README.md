@@ -50,8 +50,10 @@
 | Array               | Find the "Kth" max and min element of an array                                                       | <a href="https://github.com/satyampundi/CP2021/blob/main/KthSmallAndLarge.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>              |
 | Array               | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | <a href="https://github.com/satyampundi/CP2021/blob/main/0%2C1%2C2%20arr_Sort.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>              |
 | Array               | Move all the negative elements to one side of the array                                              | <a href="https://github.com/satyampundi/CP2021/blob/main/inPlaceMovAllNeg.cpp"><img src="https://img.shields.io/badge/Solution-green"></a>              |
-| Array               | Find the Union and Intersection of the two sorted arrays.                                            | <->              |
-| Array               | Write a program to cyclically rotate an array by one.                                                | <->              |
+| Array               | Find the Union and Intersection of the two sorted arrays.                                            | <a
+    href="https://github.com/satyampundi/CP2021/blob/main/intersection.cpp"><img src="https://img.shields.io/badge/Solution-green"> </a>              |
+| Array               | Write a program to cyclically rotate an array by one.                                                |<a
+    href="https://github.com/satyampundi/CP2021/blob/main/leftAndRightRotate.cpp"><img src="https://img.shields.io/badge/Solution-green"> </a>             |
 | Array               | find Largest sum contiguous Subarray [V. IMP]                                                        | <->              |
 | Array               | Minimise the maximum difference between heights [V.IMP]                                              | <->              |
 | Array               | Minimum no. of Jumps to reach end of an array                                                        | <->              |
