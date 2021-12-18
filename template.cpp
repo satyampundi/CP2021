@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
-
-using namespace std;
-
-#define ar array
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);
+#define testcase int t; cin >> t; while(t--){dfunc();}
 #define ll long long
 
 const int MAX_N = 1e5 + 1;
@@ -11,18 +9,14 @@ const ll INF = 1e9;
 
 typedef vector<vector<int>> VI;
 typedef vector<int> V;
+using namespace std;
 
-void solve() {
-
+void dfunc(){
+    //write your code
 }
-
-int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0); cout.tie(0);
-    int tc = 1;
-    // cin >> tc;
-    for (int t = 1; t <= tc; t++) {
-        // cout << "Case #" << t  << ": ";
-        solve();
-    }
+int main()
+{
+    fast
+    testcase
+    return 0;
 }
